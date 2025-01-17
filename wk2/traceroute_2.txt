@@ -1,0 +1,19 @@
+fezol@LAPTOP-NV5AIQ1K MINGW64 ~
+$ tracert fcbayern.com
+
+Tracing route to fcbayern.com [23.10.148.35]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms     1 ms  10.16.32.1
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     2 ms     5 ms     2 ms  a23-10-148-35.deploy.static.akamaitechnologies.com [23.10.148.35]
+
+Trace complete.
+

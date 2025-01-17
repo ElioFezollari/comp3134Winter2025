@@ -1,0 +1,419 @@
+1-
+    Domain Name: eliofezollari.dev
+    Registry Domain ID: E02D84014-DEV
+    Registrar WHOIS Server: whois.porkbun.com
+    Registrar URL: https://porkbun.com/
+    Updated Date: 2024-03-24T22:34:06Z
+    Creation Date: 2024-03-19T22:34:06Z
+    Registry Expiry Date: 2028-03-19T22:34:06Z
+    Registrar: Porkbun LLC
+    Registrar IANA ID: 1861
+    Registrar Abuse Contact Email: email@porkbun.com
+    Registrar Abuse Contact Phone: +1.5038508351
+    Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+    Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+    Registry Registrant ID: REDACTED FOR PRIVACY
+    Registrant Name: REDACTED FOR PRIVACY
+    Registrant Organization: Private by Design, LLC
+    Registrant Street: REDACTED FOR PRIVACY
+    Registrant City: REDACTED FOR PRIVACY
+    Registrant State/Province: NC
+    Registrant Postal Code: REDACTED FOR PRIVACY
+    Registrant Country: US
+    Registrant Phone: REDACTED FOR PRIVACY
+    Registrant Email: Please query the WHOIS server of the owning registrar identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. 
+    Registry Admin ID: REDACTED FOR PRIVACY
+    Admin Name: REDACTED FOR PRIVACY
+    Admin Organization: REDACTED FOR PRIVACY
+    Admin Street: REDACTED FOR PRIVACY
+    Admin City: REDACTED FOR PRIVACY
+    Admin State/Province: REDACTED FOR PRIVACY
+    Admin Postal Code: REDACTED FOR PRIVACY
+    Admin Country: REDACTED FOR PRIVACY
+    Admin Phone: REDACTED FOR PRIVACY
+    Admin Email: Please query the WHOIS server of the owning registrar identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. 
+    Registry Tech ID: REDACTED FOR PRIVACY
+    Tech Name: REDACTED FOR PRIVACY
+    Tech Organization: REDACTED FOR PRIVACY
+    Tech Street: REDACTED FOR PRIVACY
+    Tech City: REDACTED FOR PRIVACY
+    Tech State/Province: REDACTED FOR PRIVACY
+    Tech Postal Code: REDACTED FOR PRIVACY
+    Tech Country: REDACTED FOR PRIVACY
+    Tech Phone: REDACTED FOR PRIVACY
+    Tech Email: Please query the WHOIS server of the owning registrar identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. 
+    Registry Billing ID: REDACTED FOR PRIVACY
+    Billing Name: REDACTED FOR PRIVACY
+    Billing Organization: REDACTED FOR PRIVACY
+    Billing Street: REDACTED FOR PRIVACY
+    Billing City: REDACTED FOR PRIVACY
+    Billing State/Province: REDACTED FOR PRIVACY
+    Billing Postal Code: REDACTED FOR PRIVACY
+    Billing Country: REDACTED FOR PRIVACY
+    Billing Phone: REDACTED FOR PRIVACY
+    Billing Email: Please query the WHOIS server of the owning registrar identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. 
+    Name Server: curitiba.ns.porkbun.com
+    Name Server: fortaleza.ns.porkbun.com
+    Name Server: maceio.ns.porkbun.com
+    Name Server: salvador.ns.porkbun.com
+    DNSSEC: unsigned
+    URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+    >>> Last update of WHOIS database: 2025-01-17T19:56:46Z <<<
+
+    For more information on Whois status codes, please visit https://icann.org/epp
+
+    Please query the WHOIS server of the owning registrar identified in this
+    output for information on how to contact the Registrant, Admin, or Tech
+    contact of the queried domain name.
+
+    You may also request underlying Registrant data via ICANN's RDRS service
+    (https://rdrs.icann.org/).
+
+    WHOIS information is provided by Charleston Road Registry Inc. (CRR) solely
+    for query-based, informational purposes. By querying our WHOIS database, you
+    are agreeing to comply with these terms
+    (https://www.registry.google/about/whois-disclaimer.html) and acknowledge
+    that your information will be used in accordance with CRR's Privacy Policy
+    (https://www.registry.google/about/privacy.html), so please read those
+    documents carefully.  Any information provided is "as is" without any
+    guarantee of accuracy. You may not use such information to (a) allow,
+    enable, or otherwise support the transmission of mass unsolicited,
+    commercial advertising or solicitations; (b) enable high volume, automated,
+    electronic processes that access the systems of CRR or any ICANN-Accredited
+    Registrar, except as reasonably necessary to register domain names or modify
+    existing registrations; or (c) engage in or support unlawful behavior. CRR
+    reserves the right to restrict or deny your access to the Whois database,
+    and may modify these terms at any time.
+
+
+
+2 - 
+    Domain Name: georgebrown.ca
+    Registry Domain ID: D121739-CIRA
+    Registrar WHOIS Server: whois.ca.fury.ca
+    Registrar URL: www.webnames.ca
+    Updated Date: 2025-01-17T16:02:26Z
+    Creation Date: 2002-07-04T08:35:23Z
+    Registry Expiry Date: 2025-07-04T04:00:00Z
+    Registrar: Webnames.ca Inc.
+    Registrar IANA ID: 456
+    Registrar Abuse Contact Email: email@webnames.ca
+    Registrar Abuse Contact Phone: +1.8662217878
+    Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+    Registry Registrant ID: R21312-CIRA
+    Registrant Name: Omid Fekri
+    Registrant Organization: George Brown College
+    Registrant Street: P.O. Box 1015 Station B
+    Registrant City: Toronto
+    Registrant State/Province: ON
+    Registrant Postal Code: M5T2T9
+    Registrant Country: CA
+    Registrant Phone: +1.4164155000
+    Registrant Phone Ext: 5012
+    Registrant Fax:
+    Registrant Fax Ext:
+    Registrant Email: email@georgebrown.ca
+    Registry Admin ID: C883431-CIRA
+    Admin Name: Omid Fekri
+    Admin Organization: George Brown College
+    Admin Street: P.O. Box 1015 Station B
+    Admin City: Toronto
+    Admin State/Province: ON
+    Admin Postal Code: M5T2T9
+    Admin Country: CA
+    Admin Phone: +1.4164155000
+    Admin Phone Ext: 5012
+    Admin Fax:
+    Admin Fax Ext:
+    Admin Email: email@georgebrown.ca
+    Registry Tech ID: C883432-CIRA
+    Tech Name: Dorin Grunberg
+    Tech Organization: George Brown College
+    Tech Street: P.O. Box 1015 Station B
+    Tech City: Toronto
+    Tech State/Province: ON
+    Tech Postal Code: M5T2T9
+    Tech Country: CA
+    Tech Phone: +1.4164155000
+    Tech Phone Ext: 4935
+    Tech Fax:
+    Tech Fax Ext:
+    Tech Email: email@georgebrown.ca
+    Registry Billing ID:
+    Billing Name:
+    Billing Organization:
+    Billing Street:
+    Billing City:
+    Billing State/Province:
+    Billing Postal Code:
+    Billing Country:
+    Billing Phone:
+    Billing Phone Ext:
+    Billing Fax:
+    Billing Fax Ext:
+    Billing Email:
+    Name Server: ns1.d-zone.ca
+    Name Server: ns1.georgebrown.ca
+    Name Server: ns2.d-zone.ca
+    Name Server: ns2.georgebrown.ca
+    DNSSEC: unsigned
+    URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+    >>> Last update of WHOIS database: 2025-01-17T18:05:14Z <<<
+
+    For more information on Whois status codes, please visit https://icann.org/epp
+
+    %
+    % Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+    % Notice, available at http://www.cira.ca/legal-notice/?lang=en
+    %
+    % (c) 2025 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+
+
+
+3 - 
+    Domain Name: fcbayern.com
+    Registry Domain ID: 43983702_DOMAIN_COM-VRSN
+    Registrar WHOIS Server: whois.psi-usa.info
+    Registrar URL: https://www.psi-usa.info
+    Updated Date: 2025-01-09T21:04:13Z
+    Creation Date: 2000-11-20T15:18:27Z
+    Registrar Registration Expiration Date: 2025-11-19T23:00:00Z
+    Registrar: PSI-USA, Inc. dba Domain Robot
+    Registrar IANA ID: 151
+    Registrar Abuse Contact Email: email@psi-usa.info
+    Registrar Abuse Contact Phone: +49.94159559482
+    Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+    Registry Registrant ID: REDACTED FOR PRIVACY
+    Registrant Name: REDACTED FOR PRIVACY
+    Registrant Organization: FC Bayern München AG
+    Registrant Street: REDACTED FOR PRIVACY
+    Registrant City: REDACTED FOR PRIVACY
+    Registrant State/Province: Bayern
+    Registrant Postal Code: REDACTED FOR PRIVACY
+    Registrant Country: DE
+    Registrant Phone: REDACTED FOR PRIVACY
+    Registrant Phone Ext: REDACTED FOR PRIVACY
+    Registrant Fax: REDACTED FOR PRIVACY
+    Registrant Fax Ext: REDACTED FOR PRIVACY
+    Registrant Email: https://whoispro.domain-robot.org/whois/fcbayern.com 
+    Registry Admin ID: REDACTED FOR PRIVACY
+    Admin Name: REDACTED FOR PRIVACY
+    Admin Organization: REDACTED FOR PRIVACY
+    Admin Street: REDACTED FOR PRIVACY
+    Admin City: REDACTED FOR PRIVACY
+    Admin State/Province: REDACTED FOR PRIVACY
+    Admin Postal Code: REDACTED FOR PRIVACY
+    Admin Country: REDACTED FOR PRIVACY
+    Admin Phone: REDACTED FOR PRIVACY
+    Admin Phone Ext: REDACTED FOR PRIVACY
+    Admin Fax: REDACTED FOR PRIVACY
+    Admin Fax Ext: REDACTED FOR PRIVACY
+    Admin Email: https://whoispro.domain-robot.org/whois/fcbayern.com
+    Registry Tech ID: REDACTED FOR PRIVACY
+    Tech Name: REDACTED FOR PRIVACY
+    Tech Organization: REDACTED FOR PRIVACY
+    Tech Street: REDACTED FOR PRIVACY
+    Tech City: REDACTED FOR PRIVACY
+    Tech State/Province: REDACTED FOR PRIVACY
+    Tech Postal Code: REDACTED FOR PRIVACY
+    Tech Country: REDACTED FOR PRIVACY
+    Tech Phone: REDACTED FOR PRIVACY
+    Tech Phone Ext: REDACTED FOR PRIVACY
+    Tech Fax: REDACTED FOR PRIVACY
+    Tech Fax Ext: REDACTED FOR PRIVACY
+    Tech Email: https://whoispro.domain-robot.org/whois/fcbayern.com
+    Name Server: a1-254.akam.net
+    Name Server: a10-67.akam.net
+    Name Server: a4-64.akam.net
+    Name Server: a5-65.akam.net
+    Name Server: a6-66.akam.net
+    Name Server: a9-67.akam.net
+    DNSSEC: unsigned
+    URL of the ICANN WHOIS Data Problem Reporting System: https://wdprs.internic.net/
+    >>> Last update of WHOIS database: 2025-01-17T19:55:15Z <<<
+
+    For more information on Whois status codes, please visit https://www.icann.org/epp
+
+
+    # Terms and conditions:
+    #
+    # The data in the WHOIS database of PSI-USA, Inc. is provided by
+    # PSI-USA, Inc. for information purposes, and to assist persons in
+    # obtaining information about or related to a domain name registration
+    # record.  PSI-USA, Inc. does not guarantee its accuracy.  By submitting
+    # a WHOIS query, you agree that you will use this data only for lawful
+    # purposes and that, under no circumstances, you will use this data to
+    #  (1) allow, enable, or otherwise support the transmission of mass
+    #      unsolicited, commercial advertising or solicitations via E-mail
+    #      (spam); or
+    #  (2) enable high volume, automated, electronic processes that apply to
+    #      PSI-USA, Inc. or its systems.
+    # PSI-USA, Inc. reserves the right to modify these terms at any time.
+    # By submitting this query, you agree to abide by this policy.
+    # 
+
+
+
+4-
+    Domain Name: theuselessweb.com
+    Registry Domain ID: 1755638654_DOMAIN_COM-VRSN
+    Registrar WHOIS Server: whois.sawbuck.com
+    Registrar URL: http://www.automattic.com/
+    Updated Date: 2024-10-09T12:10:21Z
+    Creation Date: 2012-10-29T18:15:29Z
+    Registrar Registration Expiration Date: 2025-10-29T18:15:29Z
+    Registrar: Automattic Inc.
+    Registrar IANA ID: 1531
+    Registrar Abuse Contact Email: email@automattic.com
+    Registrar Abuse Contact Phone: +1.8772733049
+    Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+    Registry Registrant ID: Not Available From Registry
+    Registrant Name: REDACTED FOR PRIVACY 
+    Registrant Organization: Knock Knock WHOIS Not There, LLC
+    Registrant Street: 9450 SW Gemini Dr #63259
+    Registrant City: Beaverton
+    Registrant State/Province: 
+    Registrant Postal Code: 97008-7105
+    Registrant Country: US
+    Registrant Phone: +1.8772738550
+    Registrant Phone Ext: 
+    Registrant Fax: 
+    Registrant Fax Ext: 
+    Registrant Email: email@privatewho.is
+    Registry Admin ID: Not Available From Registry
+    Admin Name: REDACTED FOR PRIVACY 
+    Admin Organization: Knock Knock WHOIS Not There, LLC
+    Admin Street: 9450 SW Gemini Dr #63259
+    Admin City: Beaverton
+    Admin State/Province: 
+    Admin Postal Code: 97008-7105
+    Admin Country: US
+    Admin Phone: +1.8772738550
+    Admin Phone Ext: 
+    Admin Fax: 
+    Admin Fax Ext: 
+    Admin Email: email@privatewho.is
+    Registry Tech ID: Not Available From Registry
+    Tech Name: REDACTED FOR PRIVACY 
+    Tech Organization: Knock Knock WHOIS Not There, LLC
+    Tech Street: 9450 SW Gemini Dr #63259
+    Tech City: Beaverton
+    Tech State/Province: 
+    Tech Postal Code: 97008-7105
+    Tech Country: US
+    Tech Phone: +1.8772738550
+    Tech Phone Ext: 
+    Tech Fax: 
+    Tech Fax Ext: 
+    Tech Email: email@privatewho.is
+    Registry Billing ID: Not Available From Registry
+    Billing Name: REDACTED FOR PRIVACY 
+    Billing Organization: Knock Knock WHOIS Not There, LLC
+    Billing Street: 9450 SW Gemini Dr #63259
+    Billing City: Beaverton
+    Billing State/Province: 
+    Billing Postal Code: 97008-7105
+    Billing Country: US
+    Billing Phone: +1.8772738550
+    Billing Phone Ext: 
+    Billing Fax: 
+    Billing Fax Ext: 
+    Billing Email: email@privatewho.is
+    Name Server: dns1.p01.nsone.net 
+    Name Server: dns2.p01.nsone.net 
+    Name Server: dns3.p01.nsone.net 
+    Name Server: dns4.p01.nsone.net 
+    DNSSEC: unsigned
+    Whoisprivacy: 5
+    URL of the ICANN WHOIS Data Problem Reporting System: https://wdprs.internic.net/
+    >>> Last update of WHOIS database: 2025-01-15T19:55:07Z <<<
+
+    For more information on Whois status codes, please visit https://www.icann.org/epp
+
+    To contact the registered registrant please proceed to:
+    https://www.domain-contact.org
+
+    Please register your domains at; http://www.automattic.com/
+    This data is provided by Automattic Inc.
+    for information purposes, and to assist persons obtaining information
+    about or related to domain name registration records.
+    Automattic Inc. does not guarantee its accuracy.
+    By submitting a WHOIS query, you agree that you will use this data
+    only for lawful purposes and that, under no circumstances, you will
+
+    use this data to
+    1) allow, enable, or otherwise support the transmission of mass
+    unsolicited, commercial advertising or solicitations via E-mail
+    (spam) or
+    2) enable high volume, automated, electronic processes that apply
+    to this WHOIS server.
+    These terms may be changed without prior notice.
+    By submitting this query, you agree to abide by this policy.
+
+
+5-
+    Domain Name: ALWAYSJUDGEABOOKBYITSCOVER.COM
+    Registry Domain ID: 2490371559_DOMAIN_COM-VRSN
+    Registrar WHOIS Server: whois.porkbun.com
+    Registrar URL: http://www.porkbun.com
+    Updated Date: 2024-12-01 22:54:11
+    Created Date: 2020-02-09 18:35:25
+    Registrar Registration Expiration Date: 2026-02-09 18:35:25
+    Registrar: Porkbun LLC
+    Registrar IANA ID: 1861
+    Registrar Abuse Contact Email: email@porkbun.com
+    Registrar Abuse Contact Phone: +1.5038508351
+    Domain Status: clientDeleteProhibited http://icann.org/epp#clientDeleteProhibited
+    Domain Status: clientTransferProhibited http://icann.org/epp#clientTransferProhibited
+    Registry Registrant ID: 
+    Registrant Name: Whois Privacy
+    Registrant Organization: Private by Design, LLC
+    Registrant Street: 500 Westover Dr #9816
+    Registrant City: Sanford
+    Registrant State/Province: NC
+    Registrant Postal Code: 27330
+    Registrant Country: US
+    Registrant Phone: +1.9712666028
+    Registrant Phone Ext: 
+    Registrant Fax:
+    Registrant Fax Ext: 
+    Registrant Email: https://porkbun.com/whois/contact/registrant/alwaysjudgeabookbyitscover.com
+    Registry Admin ID: 
+    Admin Name: Whois Privacy
+    Admin Organization: Private by Design, LLC
+    Admin Street: 500 Westover Dr #9816
+    Admin City: Sanford
+    Admin State/Province: NC
+    Admin Postal Code: 27330
+    Admin Country: US
+    Admin Phone: +1.9712666028
+    Admin Phone Ext: 
+    Admin Fax:
+    Admin Fax Ext: 
+    Admin Email: https://porkbun.com/whois/contact/admin/alwaysjudgeabookbyitscover.com
+    Registry Tech ID: 
+    Tech Name: Whois Privacy
+    Tech Organization: Private by Design, LLC
+    Tech Street: 500 Westover Dr #9816
+    Tech City: Sanford
+    Tech State/Province: NC
+    Tech Postal Code: 27330
+    Tech Country: US
+    Tech Phone: +1.9712666028
+    Tech Phone Ext: 
+    Tech Fax:
+    Tech Fax Ext: 
+    Tech Email: https://porkbun.com/whois/contact/tech/alwaysjudgeabookbyitscover.com
+    Name Server: DNS1.P04.NSONE.NET
+    Name Server: DNS2.P04.NSONE.NET
+    Name Server: DNS3.P04.NSONE.NET
+    Name Server: DNS4.P04.NSONE.NET
+    URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net
+    >>> Last update of WHOIS database: 2024-12-01 22:54:11 <<<
+
+    For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+    The Data in the Porkbun LLC WHOIS database is provided by Porkbun LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record. Porkbun LLC does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Porkbun LLC (or its systems). Porkbun LLC reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+    Porkbun!

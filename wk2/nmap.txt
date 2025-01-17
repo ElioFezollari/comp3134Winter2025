@@ -1,0 +1,25 @@
+SCANNING 1000 TCP PORTS
+root@Georgebrown:~# nmap fcbayern.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-17 20:21 UTC
+Nmap scan report for fcbayern.com (184.26.199.198)
+Host is up (0.0019s latency).
+Other addresses for fcbayern.com (not scanned): 2600:140a:5000:981::1770 2600:140a:5000:989::1770
+rDNS record for 184.26.199.198: a184-26-199-198.deploy.static.akamaitechnologies.com
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Nmap done: 1 IP address (1 host up) scanned in 4.97 seconds
+
+
+SCANNING A SINGLE PORT (80)
+root@Georgebrown:~# nmap -p 80 github.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-17 20:23 UTC
+Nmap scan report for github.com (140.82.114.4)
+Host is up (0.020s latency).
+rDNS record for 140.82.114.4: lb-140-82-114-4-iad.github.com
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.09 seconds

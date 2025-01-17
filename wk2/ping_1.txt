@@ -1,0 +1,59 @@
+FROM DROPLET
+
+root@Georgebrown:~# ping fcbayern.com
+PING fcbayern.com (184.26.199.198) 56(84) bytes of data.
+64 bytes from a184-26-199-198.deploy.static.akamaitechnologies.com (184.26.199.198): icmp_seq=1 ttl=57 time=2.15 ms
+64 bytes from a184-26-199-198.deploy.static.akamaitechnologies.com (184.26.199.198): icmp_seq=2 ttl=57 time=1.31 ms
+64 bytes from a184-26-199-198.deploy.static.akamaitechnologies.com (184.26.199.198): icmp_seq=3 ttl=57 time=1.31 ms
+64 bytes from a184-26-199-198.deploy.static.akamaitechnologies.com (184.26.199.198): icmp_seq=4 ttl=57 time=1.30 ms
+^C
+--- fcbayern.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+rtt min/avg/max/mdev = 1.301/1.517/2.147/0.363 ms
+root@Georgebrown:~# ping fcbayern.com -w 3
+PING fcbayern.com (184.26.199.198) 56(84) bytes of data.
+64 bytes from a184-26-199-198.deploy.static.akamaitechnologies.com (184.26.199.198): icmp_seq=1 ttl=57 time=1.21 ms
+64 bytes from a184-26-199-198.deploy.static.akamaitechnologies.com (184.26.199.198): icmp_seq=2 ttl=57 time=1.25 ms
+64 bytes from a184-26-199-198.deploy.static.akamaitechnologies.com (184.26.199.198): icmp_seq=3 ttl=57 time=1.27 ms
+
+--- fcbayern.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 1.208/1.242/1.267/0.025 ms
+root@Georgebrown:~#
+
+
+
+
+FROM LOCAL MACHINE
+
+
+fezol@LAPTOP-NV5AIQ1K MINGW64 ~
+$ ping fcbayern.com
+
+Pinging fcbayern.com [23.10.148.35] with 32 bytes of data:
+Reply from 23.10.148.35: bytes=32 time=2ms TTL=58
+Reply from 23.10.148.35: bytes=32 time=2ms TTL=58
+Reply from 23.10.148.35: bytes=32 time=2ms TTL=58
+
+Ping statistics for 23.10.148.35:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 2ms, Average = 2ms
+Control-C
+
+
+fezol@LAPTOP-NV5AIQ1K MINGW64 ~
+$ ping fcbayern.com -w 3
+
+Pinging fcbayern.com [23.10.148.35] with 32 bytes of data:
+Reply from 23.10.148.35: bytes=32 time=8ms TTL=58
+Reply from 23.10.148.35: bytes=32 time=2ms TTL=58
+Reply from 23.10.148.35: bytes=32 time=2ms TTL=58
+Reply from 23.10.148.35: bytes=32 time=2ms TTL=58
+
+Ping statistics for 23.10.148.35:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 8ms, Average = 3ms
+
+
