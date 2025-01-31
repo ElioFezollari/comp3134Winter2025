@@ -1,0 +1,29 @@
+root@Georgebrown:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet), snapshot length 262144
+20:47:28.039382 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1714744827:1714744879, ack 2162638799, win 501, length 52
+20:47:28.040554 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 52:96, ack 1, win 501, length 44
+20:47:28.040606 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 96:148, ack 1, win 501, length 52
+20:47:28.040638 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 148:216, ack 1, win 501, length 68
+20:47:28.040669 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 216:284, ack 1, win 501, length 68
+20:47:28.040697 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 284:320, ack 1, win 501, length 36
+20:47:28.044014 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 320, win 1019, length 0
+20:47:28.414370 IP 197.5.145.150.26547 > Georgebrown.ssh: Flags [S], seq 3842970796, win 64240, options [mss 1460,sackOK,TS val 2615300128 ecr 0,nop,wscale 7], length 0
+20:47:28.414442 IP Georgebrown.ssh > 197.5.145.150.26547: Flags [S.], seq 2152493040, ack 3842970797, win 65160, options [mss 1460,sackOK,TS val 2849599422 ecr 2615300128,nop,wscale 7], length 0
+20:47:28.531095 IP 197.5.145.150.26547 > Georgebrown.ssh: Flags [.], ack 1, win 502, options [nop,nop,TS val 2615300250 ecr 2849599422], length 0
+20:47:28.537986 IP 197.5.145.150.26547 > Georgebrown.ssh: Flags [P.], seq 1:23, ack 1, win 502, options [nop,nop,TS val 2615300252 ecr 2849599422], length 22: SSH: SSH-2.0-libssh_0.9.6
+20:47:28.538025 IP Georgebrown.ssh > 197.5.145.150.26547: Flags [.], ack 23, win 509, options [nop,nop,TS val 2849599546 ecr 2615300252], length 0
+20:47:28.541439 IP Georgebrown.ssh > 197.5.145.150.26547: Flags [P.], seq 1:43, ack 23, win 509, options [nop,nop,TS val 2849599549 ecr 2615300252], length 42: SSH: SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10
+20:47:28.656963 IP 197.5.145.150.26547 > Georgebrown.ssh: Flags [.], ack 43, win 502, options [nop,nop,TS val 2615300376 ecr 2849599549], length 0
+20:47:28.656964 IP 197.5.145.150.26547 > Georgebrown.ssh: Flags [P.], seq 23:999, ack 43, win 502, options [nop,nop,TS val 2615300376 ecr 2849599549], length 976
+20:47:28.657036 IP Georgebrown.ssh > 197.5.145.150.26547: Flags [P.], seq 43:1155, ack 23, win 509, options [nop,nop,TS val 2849599665 ecr 2615300376], length 1112
+20:47:28.698603 IP Georgebrown.ssh > 197.5.145.150.26547: Flags [.], ack 999, win 502, options [nop,nop,TS val 2849599707 ecr 2615300376], length 0
+20:47:28.819983 IP 197.5.145.150.26547 > Georgebrown.ssh: Flags [P.], seq 999:1047, ack 1155, win 501, options [nop,nop,TS val 2615300534 ecr 2849599665], length 48
+20:47:28.820045 IP Georgebrown.ssh > 197.5.145.150.26547: Flags [.], ack 1047, win 502, options [nop,nop,TS val 2849599828 ecr 2615300534], length 0
+20:47:28.825672 IP Georgebrown.ssh > 197.5.145.150.26547: Flags [P.], seq 1155:1687, ack 1047, win 502, options [nop,nop,TS val 2849599834 ecr 2615300534], length 532
+20:47:28.959118 IP 197.5.145.150.26547 > Georgebrown.ssh: Flags [P.], seq 1047:1063, ack 1687, win 501, options [nop,nop,TS val 2615300667 ecr 2849599834], length 16
+20:47:29.002617 IP Georgebrown.ssh > 197.5.145.150.26547: Flags [.], ack 1063, win 502, options [nop,nop,TS val 2849600011 ecr 2615300667], length 0
+20:47:29.128088 IP 197.5.145.150.26547 > Georgebrown.ssh: Flags [P.], seq 1063:1115, ack 1687, win 501, options [nop,nop,TS val 2615300839 ecr 2849600011], length 52
+20:47:29.128140 IP Georgebrown.ssh > 197.5.145.150.26547: Flags [.], ack 1115, win 502, options [nop,nop,TS val 2849600136 ecr 2615300839], length 0
+20:47:29.128302 IP Georgebrown.ssh > 197.5.145.150.26547: Flags [P.], seq 1687:1739, ack 1115, win 502, options [nop,nop,TS val 2849600136 ecr 2615300839], length 52
+20:47:29.251229 IP 197.5.145.150.26547 > Georgebrown.ssh: Flags [P.], seq 1115:1199, ack 1739, win 501, options [nop,nop,TS val 2615300969 ecr 2849600136], length 84
+20:47:29.294652 IP Georgebrown.ssh > 197.5.145.150.26547: Flags [.], ack 1199, win 502, options [nop,nop,TS val 2849600303 ecr 2615300969], length 0

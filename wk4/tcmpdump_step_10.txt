@@ -1,0 +1,54 @@
+root@Georgebrown:~# tcpdump -i eth0 port 22
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+20:50:18.542805 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1714894111:1714894219, ack 2162644427, win 501, length 108
+20:50:18.542867 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 108:144, ack 1, win 501, length 36
+20:50:18.542898 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 144:196, ack 1, win 501, length 52
+20:50:18.542928 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 196:264, ack 1, win 501, length 68
+20:50:18.542958 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 264:332, ack 1, win 501, length 68
+20:50:18.542984 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 332:368, ack 1, win 501, length 36
+20:50:18.546409 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 368, win 1019, length 0
+20:50:18.649789 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 368:540, ack 1, win 501, length 172
+20:50:18.649894 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 540:724, ack 1, win 501, length 184
+20:50:18.649933 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 724:760, ack 1, win 501, length 36
+20:50:18.649975 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 760:908, ack 1, win 501, length 148
+20:50:18.650006 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 908:944, ack 1, win 501, length 36
+20:50:18.650047 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 944:1092, ack 1, win 501, length 148
+20:50:18.650078 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1092:1128, ack 1, win 501, length 36
+20:50:18.650118 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1128:1276, ack 1, win 501, length 148
+20:50:18.650150 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1276:1312, ack 1, win 501, length 36
+20:50:18.650196 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1312:1460, ack 1, win 501, length 148
+20:50:18.650253 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1460:1628, ack 1, win 501, length 168
+20:50:18.650291 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1628:1664, ack 1, win 501, length 36
+20:50:18.654072 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 1664, win 1023, length 0
+20:50:18.746768 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1664:1812, ack 1, win 501, length 148
+20:50:18.746839 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1812:1848, ack 1, win 501, length 36
+20:50:18.746903 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1848:1996, ack 1, win 501, length 148
+20:50:18.746933 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1996:2032, ack 1, win 501, length 36
+20:50:18.746972 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 2032:2180, ack 1, win 501, length 148
+20:50:18.747000 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 2180:2216, ack 1, win 501, length 36
+20:50:18.747036 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 2216:2364, ack 1, win 501, length 148
+20:50:18.747062 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 2364:2400, ack 1, win 501, length 36
+20:50:18.747099 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 2400:2548, ack 1, win 501, length 148
+20:50:18.747126 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 2548:2584, ack 1, win 501, length 36
+20:50:18.747161 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 2584:2732, ack 1, win 501, length 148
+20:50:18.747188 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 2732:2768, ack 1, win 501, length 36
+20:50:18.747223 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 2768:2916, ack 1, win 501, length 148
+20:50:18.747249 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 2916:2952, ack 1, win 501, length 36
+20:50:18.747284 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 2952:3100, ack 1, win 501, length 148
+20:50:18.747311 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 3100:3136, ack 1, win 501, length 36
+20:50:18.747348 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 3136:3284, ack 1, win 501, length 148
+20:50:18.747384 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 3284:3320, ack 1, win 501, length 36
+20:50:18.747423 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 3320:3468, ack 1, win 501, length 148
+20:50:18.747450 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 3468:3504, ack 1, win 501, length 36
+20:50:18.747485 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 3504:3652, ack 1, win 501, length 148
+20:50:18.747511 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 3652:3688, ack 1, win 501, length 36
+20:50:18.747547 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 3688:3836, ack 1, win 501, length 148
+20:50:18.747573 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 3836:3872, ack 1, win 501, length 36
+20:50:18.750920 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 3872, win 1023, length 0
+20:50:18.750976 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 3872:4040, ack 1, win 501, length 168
+20:50:18.799324 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 4040, win 1023, length 0
+^C
+47 packets captured
+103 packets received by filter
+0 packets dropped by kernel

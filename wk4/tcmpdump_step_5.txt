@@ -1,0 +1,61 @@
+root@Georgebrown:~# tcpdump -XX -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+20:46:40.480095 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1714732711:1714732819, ack 2162637623, win 501, length 108
+        0x0000:  fe00 0000 0101 463c 6a00 03eb 0800 4510  ......F<j.....E.
+        0x0010:  0094 90c5 4000 4006 7470 8ac5 8ee3 c660  ....@.@.tp.....`
+        0x0020:  5515 0016 ce8a 6634 bea7 80e7 3b37 5018  U.....f4....;7P.
+        0x0030:  01f5 35a5 0000 b6e2 cd06 9dc7 e720 bfb3  ..5.............
+        0x0040:  2d28 ea7a e170 a71c 6c52 b9c8 3d78 8aaa  -(.z.p..lR..=x..
+        0x0050:  1f17 95d2 c802 9564 5710 b985 c66c d944  .......dW....l.D
+        0x0060:  bcd2 e3c9 2dbd d191 a784 3371 30c4 3975  ....-.....3q0.9u
+        0x0070:  3573 5e81 6d47 23ad 46f5 be09 d5cc 3c80  5s^.mG#.F.....<.
+        0x0080:  4df3 91e7 c930 e98c 864e 14f3 d7cc 0f79  M....0...N.....y
+        0x0090:  3ee8 5be4 38ee 2b79 9365 147b eada 3f8e  >.[.8.+y.e.{..?.
+        0x00a0:  b165                                     .e
+20:46:40.480188 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 108:264, ack 1, win 501, length 156
+        0x0000:  fe00 0000 0101 463c 6a00 03eb 0800 4510  ......F<j.....E.
+        0x0010:  00c4 90c6 4000 4006 743f 8ac5 8ee3 c660  ....@.@.t?.....`
+        0x0020:  5515 0016 ce8a 6634 bf13 80e7 3b37 5018  U.....f4....;7P.
+        0x0030:  01f5 35d5 0000 0a30 0f2f d896 6a57 06ea  ..5....0./..jW..
+        0x0040:  c418 2ef6 cc0a b3ba 429a d925 06c0 7ff1  ........B..%....
+        0x0050:  89c8 dd13 7292 eca0 91f9 af8e 6d57 4e9a  ....r.......mWN.
+        0x0060:  2f11 05d7 9021 403c d82b 6a41 f47d 23de  /....!@<.+jA.}#.
+        0x0070:  ba19 fcfd 181e 11bc 2170 36d5 8465 4889  ........!p6..eH.
+        0x0080:  db16 bc54 0c80 8096 3672 5640 87ea d8c8  ...T....6rV@....
+        0x0090:  3ad5 bd7a 6c7b 602a 9962 70a4 dcbf bf71  :..zl{`*.bp....q
+        0x00a0:  a445 6942 932c 261a 18a3 677b 6d68 a2ef  .EiB.,&...g{mh..
+        0x00b0:  efd6 5564 0af1 4bfc cabc 96a9 a9e8 5a12  ..Ud..K.......Z.
+        0x00c0:  f945 4779 ad44 05a9 eeb3 f374 70e6 3363  .EGy.D.....tp.3c
+        0x00d0:  0baf                                     ..
+20:46:40.480238 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 264:332, ack 1, win 501, length 68
+        0x0000:  fe00 0000 0101 463c 6a00 03eb 0800 4510  ......F<j.....E.
+        0x0010:  006c 90c7 4000 4006 7496 8ac5 8ee3 c660  .l..@.@.t......`
+        0x0020:  5515 0016 ce8a 6634 bfaf 80e7 3b37 5018  U.....f4....;7P.
+        0x0030:  01f5 357d 0000 1e58 246a 2ab5 d17c 17eb  ..5}...X$j*..|..
+        0x0040:  a1ce 3bce 2659 2ab1 e6ba 81a7 264b 5970  ..;.&Y*.....&KYp
+        0x0050:  a3ea ea4b 94d7 785b d688 5619 afb1 a3b1  ...K..x[..V.....
+        0x0060:  18d9 3abd 4324 6ecb f518 4c85 d84e 7182  ..:.C$n...L..Nq.
+        0x0070:  7215 25ec 48f9 323c 7d8d                 r.%.H.2<}.
+20:46:40.480258 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 332:368, ack 1, win 501, length 36
+        0x0000:  fe00 0000 0101 463c 6a00 03eb 0800 4510  ......F<j.....E.
+        0x0010:  004c 90c8 4000 4006 74b5 8ac5 8ee3 c660  .L..@.@.t......`
+        0x0020:  5515 0016 ce8a 6634 bff3 80e7 3b37 5018  U.....f4....;7P.
+        0x0030:  01f5 355d 0000 1f3c 8b13 63d8 33dd 2c0c  ..5]...<..c.3.,.
+        0x0040:  0dfa b306 730e e93c fbf5 be67 bb8b e30c  ....s..<...g....
+        0x0050:  0386 d67d ebaa 9c11 7e22                 ...}....~"
+20:46:40.483579 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 368, win 1020, length 0
+        0x0000:  463c 6a00 03eb fe00 0000 0101 0800 4500  F<j...........E.
+        0x0010:  0028 7407 4000 7806 59aa c660 5515 8ac5  .(t.@.x.Y..`U...
+        0x0020:  8ee3 ce8a 0016 80e7 3b37 6634 c017 5010  ........;7f4..P.
+        0x0030:  03fc c5ae 0000 0000 0000 0000            ............
+20:46:40.575756 IP 218.92.0.156.18996 > Georgebrown.ssh: Flags [.], ack 3700732350, win 246, options [nop,nop,TS val 1411305222 ecr 3942618191], length 0
+        0x0000:  463c 6a00 03eb fe00 0000 0101 0800 4500  F<j...........E.
+        0x0010:  0034 7c8a 4000 2f06 da98 da5c 009c 8ac5  .4|.@./....\....
+        0x0020:  8ee3 4a34 0016 4273 b63d dc94 b1be 8010  ..J4..Bs.=......
+        0x0030:  00f6 0d63 0000 0101 080a 541e cf06 eaff  ...c......T.....
+        0x0040:  944f                                     .O
+^C
+6 packets captured
+72 packets received by filter
+0 packets dropped by kernel

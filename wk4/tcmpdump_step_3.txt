@@ -1,0 +1,28 @@
+root@Georgebrown:~# tcpdump -A -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+20:44:31.046686 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1705542075:1705542127, ack 2162626143, win 501, length 52
+E..\(j@.@........`U.....e......_P...5m...j.q......!l.AXB..W.ut0."wB.jM..$s;.O.....L..j.7J5.2
+20:44:31.047204 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 52:160, ack 1, win 501, length 108
+E...(k@.@........`U.....e......_P...5....+.     .T.I..L|.[.u.....]..."..1pJ.....\....E&.@._.0.BG+..s.~..0./.....t...!.....A+P........../<p/....<.c....aV
+20:44:31.047248 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 160:196, ack 1, win 501, length 36
+E..L(l@.@........`U.....e..[..._P...5]...........M..py.O..I~=....V.9.A..O...
+20:44:31.047283 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 196:248, ack 1, win 501, length 52
+E..\(m@.@........`U.....e......_P...5m...3/vff.%>.............0..X..x vYm.x....<.T.Z....H...
+20:44:31.047314 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 248:316, ack 1, win 501, length 68
+E..l(n@.@........`U.....e......_P...5}.....(..$..@.r#...!.....5*.....{...I.     .f&S.c.......}v...c...?...-....M
+20:44:31.047344 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 316:384, ack 1, win 501, length 68
+E..l(o@.@........`U.....e......_P...5}..{C5R.{,.7.W....!."....)\....bR...r.!..,../..1.A..:
+...P...u.A..Z..cu
+20:44:31.047371 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 384:420, ack 1, win 501, length 36
+E..L(p@.@........`U.....e..;..._P...5]..Z.P.O....V...J.`...k..fb.....t!....$
+20:44:31.051204 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 420, win 1019, length 0
+E..(h.@.x.e..`U............_e.._P.../.........
+20:44:31.051991 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [P.], seq 1:37, ack 420, win 1019, length 36
+E..Lh.@.x.e{.`U............_e.._P....>..n."F.W5D@.z%..kY.a......P.t......o].
+20:44:31.094629 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [.], ack 37, win 501, length 0
+E..((q@.@..0.....`U.....e.._....P...59..
+^C
+10 packets captured
+53 packets received by filter
+0 packets dropped by kernel

@@ -1,0 +1,11 @@
+root@Georgebrown:~# tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+20:40:21.579816 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1695003371:1695003479, ack 2162619855, win 501, length 108
+20:40:21.579897 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 108:144, ack 1, win 501, length 36
+20:40:21.579935 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 144:196, ack 1, win 501, length 52
+20:40:21.579968 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 196:264, ack 1, win 501, length 68
+20:40:21.580000 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 264:332, ack 1, win 501, length 68
+5 packets captured
+36 packets received by filter
+0 packets dropped by kernel

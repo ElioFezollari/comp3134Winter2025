@@ -1,0 +1,45 @@
+root@Georgebrown:~# tcpdump -i eth0 dst 138.197.142.227
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+20:52:37.599930 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 1714912379, win 1023, length 0
+20:52:37.681413 IP 89.248.163.14.44741 > Georgebrown.5659: Flags [S], seq 92018480, win 1024, length 0
+20:52:37.697341 IP 67.207.67.3.domain > Georgebrown.53354: 4348 NXDomain 0/1/1 (124)
+20:52:37.698763 IP 67.207.67.3.domain > Georgebrown.53354: 4348 NXDomain 0/1/0 (113)
+20:52:37.700414 IP 67.207.67.2.domain > Georgebrown.48238: 41409 NXDomain 0/1/1 (119)
+20:52:37.700534 IP 67.207.67.3.domain > Georgebrown.50534: 51754 NXDomain 0/1/1 (119)
+20:52:37.701251 IP 67.207.67.2.domain > Georgebrown.45810: Flags [S.], seq 3032737201, ack 2553124818, win 65160, options [mss 1460,sackOK,TS val 2928372551 ecr 2441356830,nop,wscale 9], length 0
+20:52:37.701515 IP 67.207.67.2.domain > Georgebrown.48238: 41409 NXDomain 0/1/0 (108)
+20:52:37.701601 IP 67.207.67.3.domain > Georgebrown.50534: 51754 NXDomain 0/1/0 (108)
+20:52:37.702341 IP 67.207.67.2.domain > Georgebrown.45810: Flags [.], ack 46, win 128, options [nop,nop,TS val 2928372552 ecr 2441356832], length 0
+20:52:37.702447 IP 67.207.67.2.domain > Georgebrown.45810: Flags [P.], seq 1:111, ack 46, win 128, options [nop,nop,TS val 2928372553 ecr 2441356832], length 110 23869 NXDomain 0/1/0 (108)
+20:52:37.704316 IP 67.207.67.2.domain > Georgebrown.50270: 39498 NXDomain 0/1/1 (132)
+20:52:37.704540 IP 67.207.67.3.domain > Georgebrown.50980: 49851 NXDomain 0/1/1 (132)
+20:52:37.704832 IP 67.207.67.2.domain > Georgebrown.45810: Flags [P.], seq 111:234, ack 92, win 128, options [nop,nop,TS val 2928372555 ecr 2441356834], length 123 28365 NXDomain 0/1/0 (121)
+20:52:37.705490 IP 67.207.67.2.domain > Georgebrown.50270: 39498 NXDomain 0/1/0 (121)
+20:52:37.706606 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 177, win 1023, length 0
+20:52:37.819572 IP 67.207.67.3.domain > Georgebrown.50980: 49851 NXDomain 0/1/0 (121)
+20:52:37.821629 IP 67.207.67.2.domain > Georgebrown.51210: 47370 NXDomain 0/1/1 (120)
+20:52:37.821811 IP 67.207.67.3.domain > Georgebrown.39427: 7507 NXDomain 0/1/1 (120)
+20:52:37.822334 IP 67.207.67.2.domain > Georgebrown.45810: Flags [P.], seq 234:345, ack 136, win 128, options [nop,nop,TS val 2928372672 ecr 2441356951], length 111 15445 NXDomain 0/1/0 (109)
+20:52:37.822883 IP 67.207.67.3.domain > Georgebrown.39427: 7507 NXDomain 0/1/0 (109)
+20:52:37.822957 IP 67.207.67.2.domain > Georgebrown.51210: 47370 NXDomain 0/1/0 (109)
+20:52:37.824535 IP 67.207.67.2.domain > Georgebrown.34577: 17834 NXDomain 0/1/1 (120)
+20:52:37.824628 IP 67.207.67.3.domain > Georgebrown.40903: 50678 NXDomain 0/1/1 (120)
+20:52:37.824773 IP 67.207.67.2.domain > Georgebrown.45810: Flags [P.], seq 345:456, ack 180, win 128, options [nop,nop,TS val 2928372675 ecr 2441356954], length 111 3363 NXDomain 0/1/0 (109)
+20:52:37.825041 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 353, win 1022, length 0
+20:52:37.825720 IP 67.207.67.2.domain > Georgebrown.34577: 17834 NXDomain 0/1/0 (109)
+20:52:37.825838 IP 67.207.67.3.domain > Georgebrown.40903: 50678 NXDomain 0/1/0 (109)
+20:52:37.831988 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 2033, win 1023, length 0
+20:52:37.907939 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 3429, win 1023, length 0
+20:52:38.073448 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 3561, win 1023, length 0
+20:52:38.162485 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 3693, win 1022, length 0
+20:52:38.270179 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 3825, win 1022, length 0
+20:52:38.365147 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 3957, win 1021, length 0
+20:52:38.472477 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 4089, win 1021, length 0
+20:52:38.579043 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 4221, win 1020, length 0
+20:52:38.688825 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 4353, win 1020, length 0
+20:52:38.780858 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 4485, win 1019, length 0
+^C
+38 packets captured
+41 packets received by filter
+0 packets dropped by kernel

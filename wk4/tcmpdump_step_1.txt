@@ -1,0 +1,52 @@
+root@Georgebrownapt-tcpdump -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+20:45:09.543537 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1705547935:1705547987, ack 2162626991, win 501, length 52
+20:45:09.544436 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 52:160, ack 1, win 501, length 108
+20:45:09.544518 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 160:196, ack 1, win 501, length 36
+20:45:09.544564 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 196:248, ack 1, win 501, length 52
+20:45:09.544601 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 248:316, ack 1, win 501, length 68
+20:45:09.544648 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 316:384, ack 1, win 501, length 68
+20:45:09.544689 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 384:420, ack 1, win 501, length 36
+20:45:09.548871 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 420, win 1020, length 0
+20:45:09.643275 IP Georgebrown.51659 > 67.207.67.2.domain: 35983+ [1au] PTR? 21.85.96.198.in-addr.arpa. (54)
+20:45:09.643393 IP Georgebrown.42454 > 67.207.67.3.domain: 4089+ [1au] PTR? 21.85.96.198.in-addr.arpa. (54)
+20:45:09.643463 IP Georgebrown.53952 > 67.207.67.2.domain: Flags [S], seq 631495308, win 64240, options [mss 1460,sackOK,TS val 2440908774 ecr 0,nop,wscale 7,tfo  cookiereq,nop,nop], length 0
+20:45:09.645351 IP 67.207.67.2.domain > Georgebrown.51659: 35983 NXDomain 0/1/1 (119)
+20:45:09.645394 IP 67.207.67.2.domain > Georgebrown.53952: Flags [S.], seq 1035537999, ack 631495309, win 65160, options [mss 1460,sackOK,TS val 2919370869 ecr 2440908774,nop,wscale 9], length 0
+20:45:09.645419 IP Georgebrown.53952 > 67.207.67.2.domain: Flags [.], ack 1, win 502, options [nop,nop,TS val 2440908776 ecr 2919370869], length 0
+20:45:09.645431 IP 67.207.67.3.domain > Georgebrown.42454: 4089 NXDomain 0/1/1 (119)
+20:45:09.645546 IP Georgebrown.51659 > 67.207.67.2.domain: 35983+ PTR? 21.85.96.198.in-addr.arpa. (43)
+20:45:09.645569 IP Georgebrown.53952 > 67.207.67.2.domain: Flags [P.], seq 1:46, ack 1, win 502, options [nop,nop,TS val 2440908777 ecr 2919370869], length 45 13174+ PTR? 21.85.96.198.in-addr.arpa. (43)
+20:45:09.645593 IP Georgebrown.42454 > 67.207.67.3.domain: 4089+ PTR? 21.85.96.198.in-addr.arpa. (43)
+20:45:09.646622 IP 67.207.67.2.domain > Georgebrown.53952: Flags [.], ack 46, win 128, options [nop,nop,TS val 2919370870 ecr 2440908777], length 0
+20:45:09.646725 IP 67.207.67.2.domain > Georgebrown.51659: 35983 NXDomain 0/1/0 (108)
+20:45:09.646876 IP 67.207.67.2.domain > Georgebrown.53952: Flags [P.], seq 1:111, ack 46, win 128, options [nop,nop,TS val 2919370871 ecr 2440908777], length 110 13174 NXDomain 0/1/0 (108)
+20:45:09.646885 IP Georgebrown.53952 > 67.207.67.2.domain: Flags [.], ack 111, win 502, options [nop,nop,TS val 2440908778 ecr 2919370871], length 0
+20:45:09.646975 IP 67.207.67.3.domain > Georgebrown.42454: 4089 NXDomain 0/1/0 (108)
+20:45:09.647379 IP Georgebrown.50862 > 67.207.67.3.domain: 7567+ [1au] PTR? 227.142.197.138.in-addr.arpa. (57)
+20:45:09.648643 IP 67.207.67.3.domain > Georgebrown.50862: 7567 NXDomain 0/1/1 (124)
+20:45:09.648678 IP Georgebrown.50862 > 67.207.67.3.domain: 7567+ PTR? 227.142.197.138.in-addr.arpa. (46)
+20:45:09.649757 IP 67.207.67.3.domain > Georgebrown.50862: 7567 NXDomain 0/1/0 (113)
+20:45:09.650060 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 420:584, ack 1, win 501, length 164
+20:45:09.650103 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 584:620, ack 1, win 501, length 36
+20:45:09.650177 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 620:768, ack 1, win 501, length 148
+20:45:09.650206 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 768:804, ack 1, win 501, length 36
+20:45:09.650245 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 804:952, ack 1, win 501, length 148
+20:45:09.650272 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 952:988, ack 1, win 501, length 36
+20:45:09.650308 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 988:1136, ack 1, win 501, length 148
+20:45:09.650335 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1136:1172, ack 1, win 501, length 36
+20:45:09.650371 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1172:1320, ack 1, win 501, length 148
+20:45:09.650399 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1320:1356, ack 1, win 501, length 36
+20:45:09.650434 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1356:1504, ack 1, win 501, length 148
+20:45:09.650460 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1504:1540, ack 1, win 501, length 36
+20:45:09.650496 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1540:1688, ack 1, win 501, length 148
+20:45:09.650522 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1688:1724, ack 1, win 501, length 36
+20:45:09.650583 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1724:1856, ack 1, win 501, length 132
+20:45:09.650611 IP Georgebrown.ssh > 198.96.85.21.52874: Flags [P.], seq 1856:1892, ack 1, win 501, length 36
+20:45:09.654133 IP 198.96.85.21.52874 > Georgebrown.ssh: Flags [.], ack 1892, win 1023, length 0
+^C20:45:09.727078 IP tehran.scan.bufferover.run.57580 > Georgebrown.https: Flags [S], seq 2962387876, win 65535, options [mss 1460], length 0
+
+45 packets captured
+120 packets received by filter
+0 packets dropped by kernel
