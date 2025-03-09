@@ -1,0 +1,7 @@
+sudo tcpdump -i any -w ~/tcpdump_logs/all_traffic_$(date +\%Y\%m\%d_\%H\%M).pcap
+
+/tcpdump_logs - is a folder i made previously through mkdir in the root dir
+
+later on to read the content of the file i used
+
+sudo tcpdump -r ~/tcpdump_logs/filename
