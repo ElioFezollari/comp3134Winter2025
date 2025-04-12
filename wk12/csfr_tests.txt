@@ -1,0 +1,1 @@
+Every time the form loads, it makes a new random confirmation code and sticks it in a hidden field. When you submit, it checks if what you sent matches what’s in the session. If you mess with the hidden field, it catches it and fails like it should.

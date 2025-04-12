@@ -1,0 +1,6 @@
+The storexss.php file reads data from storedxss.txt and outputs it directly without any sanitization. 
+This causes a stored XSS vulnerability. When a user visits storexss.php, the browser executes the <script> tag and redirects the user to /directory_traversal_part1.php without any warning.
+The issue is that the file allows untrusted data to run as real JavaScript because it doesn't sanitize or encode the output. This could let an attacker run their own code, steal user 
+information, or redirect users to another website.
+To fix this, the output should be sanitized properly before being shown in the browser, for example by using htmlspecialchars() in PHP.
+
