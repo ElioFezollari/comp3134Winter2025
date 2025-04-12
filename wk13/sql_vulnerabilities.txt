@@ -1,0 +1,6 @@
+
+When the input is Ben the page tries to find users with the name Ben that are active. My database does not have any so it finds no records
+
+When the input is Ben'-- , it seems that the -- comments out the statement where active should be 1, this leads to The Ben instance being returned, even though the active for that row is 0, which means it shouldnt be returned.
+
+When the input is Ben' or 1=1, the first part of the query can return none, but the second part of 1=1 will always return true. What is happening in this case is that the database is fetching all of the users and sending them back, active or not, with the first name Ben or not. 

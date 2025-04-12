@@ -1,0 +1,3 @@
+When the input is Ben, the page tries to find users with the name Ben that are active. My database does not have any so it finds no records.
+When the input is Ben'--, the input is treated as a normal string because the program uses prepared statements. The database searches for a user with the exact first name Ben'-- and active status 1. Since no such user exists, it finds no records.
+When the input is Ben' or 1=1, the input again is treated as a normal string. The database searches for a user whose first name is exactly Ben' or 1=1 and active status 1. Since there is no user with that exact name, no records are found.
