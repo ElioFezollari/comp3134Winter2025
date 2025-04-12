@@ -1,0 +1,4 @@
+When using %2e%2e%2f, the page shows folders one level above the web root. It lets you move around the server using URL-encoded input. 
+
+Sensitive info
+It shows the server folder layout and confirms you can escape the web folder. This info could help an attacker explore more of the server.

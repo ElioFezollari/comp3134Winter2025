@@ -1,0 +1,4 @@
+When using q=../../, the page shows system folders like /bin, /etc, and /home. The script lets you move outside the website folder and see parts of the server you shouldn't.
+
+Sensitive information
+It shows the server’s main folders and layout. An attacker could use this info to find important files or plan further attacks.

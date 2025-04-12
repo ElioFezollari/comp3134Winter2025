@@ -1,0 +1,3 @@
+To fix the problem, I replaced all HTML comments with PHP comments.
+PHP comments stay on the server and are not visible when viewing the page source in the browser.
+This hides sensitive information like my name and studid from people.

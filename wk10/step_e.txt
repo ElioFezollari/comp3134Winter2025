@@ -1,0 +1,2 @@
+in order to stop users from accessing folders outside the html directory, I used basename() to strip the path and only allow simple folder names.
+i also changed it to stop people from looking at folders that don't exist, I used file_exists() to check if the folder is real before trying to list its contents.
