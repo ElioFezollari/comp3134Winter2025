@@ -1,0 +1,9 @@
+1.Typed in pneumonoultramicroscopicsilicovolcanoconiosis .The site showed the correct definition for the word.
+
+2.Typed awodefkmgthpladwsfg in the URL.The site said it couldn't find the word and showcases "No results found for awodefkmgthpladwsfg".
+
+3.Typed <script>alert('hello')</script> into the search form.No results found for <script>alert('hello')</script> was showcased.
+
+4.Typed <script>alert('hello')</script> after term= in the URL.
+Not found page is showcased:
+Oops [ oops, oops ]The sound we make when we can’t find the page you’re looking for. We are so sorry! Please try again later!. 

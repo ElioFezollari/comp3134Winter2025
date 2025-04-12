@@ -1,0 +1,2 @@
+strip_tags() removes any HTML tags completely so the input looks plain without any HTML
+ htmlentities() keeps the HTML tags but shows them as text.
